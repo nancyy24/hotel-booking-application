@@ -1,0 +1,177 @@
+@import url('https://fonts.googleapis.com/css2?family=Moon+Dance&display=swap'); 
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,200&display=swap');
+
+
+*{
+    margin:0px;
+    padding:0px;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+
+
+}
+.headings{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Moon Dance', cursive;
+    font-weight: bolder;
+    
+}
+.hotel-img{
+    width:85vw;
+    margin:auto;
+    height:80vh;
+    position: relative;
+
+}
+
+.gallerybutton{
+    position:absolute;
+    right: 10%;
+    bottom:10%;
+    background-color:white;
+    color:black;
+    font-weight: bolder;
+    font-size: 1.5rem;
+    
+}
+
+.subbackground{
+    background-image:url(../../../public/Images/subbackground.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 170%;
+    box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+
+}
+
+.tabstyle{
+    list-style: none;
+    display:flex
+}
+.tabsection{
+    /* background-color: rgb(49, 154, 35); */
+    width : 95vw;
+    border-radius: 25px;
+    box-sizing: border-box;
+}
+
+.cursor-pointer{
+    cursor: pointer;
+}
+.tabstyle button {
+    display: inline-block;
+    cursor: pointer;
+  }
+
+  .tabstyle button:hover {
+    color:  darkred;
+    font-weight: bolder;
+  }
+  
+  /* Initial styles */
+  .tabstyle button {
+    background-color: white;
+padding: 5px;
+text-align: center;
+    color: black;
+  }
+  
+  
+
+  
+  
+  
+.gallery-img{
+    box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+}
+
+.des-box{
+    border: 2px solid black;
+    border-radius: 20px;
+    width:70vw;
+    padding:20px;
+    /* margin-left: 30% !important; */
+    margin: auto !important;
+    margin-top: 3rem !important;
+    margin-bottom: 3rem !important;
+    background-color:  rgb(188, 223, 250);
+}
+
+.border-below{
+    border: 0px 0px 2px 0px sold red;
+}
+.overview-box{
+    width:70vw;
+    padding: 30px;
+    background-color: rgb(173, 248, 240);
+    border-radius: 40px;
+    border: 1px solid black;
+    /* box-shadow: rgba(5, 5, 10, 0.25) 0px 30px 60px -12px inset, rgba(8, 8, 8, 0.451) 0px 18px 36px -18px inset; */
+    box-shadow: rgba(11, 5, 5, 0.469) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+
+    /* margin:auto !important; */
+}
+
+.contact-box{
+    width:70vw;
+    padding: 30px;
+    background-color: rgb(173, 248, 240);
+    border-radius: 40px;
+    border: 1px solid black;
+    box-shadow: rgba(11, 5, 5, 0.469) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+
+    
+
+}
+
+.carousel-img{
+    height: 60vh;;
+}
+
+/* .carousel-width{
+    width:70vw;
+
+} */
+
+
+@media screen and (max-width:800px) {
+    .overview-box{
+        margin:auto !important;
+        width:70% !important;
+    }
+    .hotel-img{
+        height:70vh;
+
+    }
+    .gallerybutton{
+        width:30% !important;
+    }
+    .des-box{
+        width:90vw;
+    }
+}
+
+
+@media screen and (min-width:1000px) {
+.gallerybutton{
+width:35% !important;
+}
+}
+
+@media screen and (max-width:1000px)  and (min-width:800px){
+    .gallerybutton{
+        width:55% !important
+    }
+    .des-box{
+        width:90% !important
+    }
+}
+
+
+
+@media screen and (max-width:800px)  and (min-width:600px){
+
+    .gallerybutton{       
+         width: 60% !important;
+    }
+}

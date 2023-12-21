@@ -1,0 +1,76 @@
+.footer-section {
+    background-color: black;
+    border-top: solid 8px gray;
+    display: flex;
+    height: 50vh;
+    flex-direction: column;
+}
+
+.footer-text {
+    /* border:solid 1px white; */
+    margin-top: 60px;
+    color: gray;
+    margin-left: 40px;
+    font-size: 20px;
+}
+
+.footer-text a {
+    text-decoration: none;
+    color: gray;
+}
+
+.footer-subsection {
+    display: flex;
+    margin: 30px 0px;
+    justify-content: space-around;
+    /* border: solid 3px white; */
+}
+
+
+.sites {
+    list-style: none;
+}
+
+.sites li {
+    margin: 15px 0px;
+    /* border: solid 1px white; */
+    position: relative;
+}
+
+.sites li a {
+    text-decoration: none;
+    margin: 10px 0px;
+    /* border: solid 1px white; */
+    color: gray;
+}
+
+#footer-buttonOne {
+    margin-top: 20px;
+    width: 100%;
+    padding: 10px;
+    position: relative;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    border-color: white;
+    display: flex;
+    justify-content: space-between;
+}
+
+#dropdown {
+    /* position:absolute; */
+    border: solid 1px white;
+    display: none;
+    margin-top: 0px;
+    background-color: black;
+    color: white;
+    width: 100%;
+    /* margin-bottom: 50px; */
+}
+
+#dropdown li {
+    list-style: none;
+    text-align: center;
+    margin: 0px;
+    border-bottom: solid 2px white;
+}

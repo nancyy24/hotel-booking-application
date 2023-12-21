@@ -1,0 +1,858 @@
+[
+  {
+  "_id": {
+    "$oid": "63b92bdf3ae0f6b365bfc9b3"
+  },
+  "name": "Rambagh Palace",
+  "no_of_people": 3,
+  "contact": {
+    "$numberLong": "9898929800"
+  },
+  "costperday": 1299,
+  "images": [
+    "Images/rambagh-1.jpg",
+    "Images/rambagh-2.jpeg",
+    "Images/rambagh-3.jpeg"
+  ],
+  "totalbookings": [],
+  "roomtype": "Deluxe",
+  "description": "A curation of authentic living palaces, landmark hotels, resorts and safaris, RamBagh Palace is the hallmark of iconic hospitality across the globe. The brand is recognised for its warm and intuitive service and is the undisputed leader in Indian hospitality.",
+  "city": "Kanpur",
+  "location_id": 4,
+  "city_id": 3,
+  "locality": "WhiteField",
+  "aggregate_rating": 8.9,
+  "rating_text": "Best Hotels to stay",
+  "image": "Images/rambagh-4.jpeg",
+  "facilities": " Air-conditioned accommodation with free WiFi, as well as access to a terrace,with private Parking",
+  "roomtypeid": 3,
+  "defaultvalue": 1,
+
+  "destination_id": 1
+},{
+  "_id": {
+    "$oid": "63b92bdf3ae0f6b365bfc9b4"
+  },
+  "name": "Sai Villa, ",
+  "no_of_people": 2,
+  "contact": {
+    "$numberLong": "7989992909"
+  },
+  "costperday": 2199,
+  "images": [
+    "Images/sai-1.jpg",
+    "Images/sai-2.jpg",
+    "Images/sai-3.jpg"
+  ],
+  "totalbookings": [],
+  "roomtype": "Deluxe",
+  "description": "A curation of authentic living palaces, landmark hotels, resorts and safaris, Sai Villa Palace is the hallmark of iconic hospitality across the globe. The brand is recognised for its warm and intuitive service and is the undisputed leader in Indian hospitality.",
+  "city": "Banglore",
+  "location_id": 3,
+  "city_id": 2,
+  "locality": "HSR Layout",
+  "aggregate_rating": 9.1,
+  "rating_text": "Best Hotels to stay",
+  "image": "Images/sai-4.jpg",
+  "facilities": " Air-conditioned accommodation with free WiFi, as well as access to a terrace,with private Parking",
+  "roomtypeid": 3,
+  "defaultvalue": 1,
+
+  "destination_id": 1
+},{
+  "_id": {
+    "$oid": "63b92bdf3ae0f6b365bfc9b8"
+  },
+  "name": "The Regenta Palace",
+  "no_of_people": 2,
+  "contact": {
+    "$numberLong": "7908000829"
+  },
+  "costperday": 2499,
+  "images": [
+    "Images/regenta-1.jpg",
+    "Images/regenta-2.jpg",
+    "Images/regenta-3.jpg"
+  ],
+  "totalbookings": [],
+  "roomtype": "Standard",
+  "description": "A curation of authentic living palaces, landmark hotels, resorts and safaris,The Regenta Palace  is the hallmark of iconic hospitality across the globe. The brand is recognised for its warm and intuitive service and is the undisputed leader in Indian hospitality.",
+  "city": "Kanpur",
+  "location_id": 1,
+  "city_id": 3,
+  "locality": "Bani Mark",
+  "aggregate_rating": 9.6,
+  "rating_text": "Best Hotels to stay",
+  "image": "Images/regenta-4.jpg",
+  "facilities": " Air-conditioned accommodation with free WiFi, as well as access to a terrace,with private Parking",
+  "roomtypeid": 2,
+  "defaultvalue": 1,
+  "destination_id": 2
+},{
+  "_id": {
+    "$oid": "63b92bdf3ae0f6b365bfc9b7"
+  },
+  "name": "The Gordon House",
+  "no_of_people": 3,
+  "contact": {
+    "$numberLong": "9899971989"
+  },
+  "costperday": 1599,
+  "images": [
+    "Images/orchid-1.jpg",
+    "Images/orchid-2.jpg",
+    "Images/orchid-3.jpg"
+  ],
+  "totalbookings": [],
+  "roomtype": "Standard",
+  "description": "A curation of authentic living palaces, landmark hotels, resorts and safaris,The Gordon House is the hallmark of iconic hospitality across the globe. The brand is recognised for its warm and intuitive service and is the undisputed leader in Indian hospitality.",
+  "city": "Kanpur",
+  "location_id": 2,
+  "city_id": 3,
+  "locality": "Civil Lines",
+  "aggregate_rating": 8.6,
+  "rating_text": "Best Hotels to stay",
+  "image": "Images/gordon-4.jpg",
+  "facilities": " Air-conditioned accommodation with free WiFi, as well as access to a terrace,with private Parking",
+  "roomtypeid": 2,
+  "defaultvalue": 1,
+  "destination_id": 2
+},{
+  "_id": {
+    "$oid": "63b92bdf3ae0f6b365bfc9b2"
+  },
+  "name": "Taj Resorts and Palaces",
+  "no_of_people": 2,
+  "contact": {
+    "$numberLong": "8979892898"
+  },
+  "costperday": 1599,
+  "images": [
+    "Images/Taj-1.jpg",
+    "Images/Taj-2.jpg",
+    "Images/Taj-3.jpeg"
+  ],
+  "totalbookings": [],
+  "roomtype": "Deluxe",
+  "description": "A curation of authentic living palaces, landmark hotels, resorts and safaris, Taj is the hallmark of iconic hospitality across the globe. The brand is recognised for its warm and intuitive service and is the undisputed leader in Indian hospitality.",
+  "city": "Kanpur",
+  "location_id": 5,
+  "city_id": 3,
+  "locality": "BTM Layout",
+  "aggregate_rating": 9.5,
+  "rating_text": "Best Hotels to stay",
+  "image": "Images/Tajhotel.jpg",
+  "facilities": " Air-conditioned accommodation with free WiFi, as well as access to a terrace,with private Parking",
+  "roomtypeid": 3,
+  "defaultvalue": 1,
+
+  "destination_id": 1
+},{
+  "_id": {
+    "$oid": "63b92bdf3ae0f6b365bfc9b6"
+  },
+  "name": "The Orchid ",
+  "no_of_people": 2,
+  "contact": {
+    "$numberLong": "8708900212"
+  },
+  "costperday": 1499,
+  "images": [
+    "Images/orchid-1.jpg",
+    "Images/orchid-2.jpg",
+    "Images/orchid-3.jpg"
+  ],
+  "totalbookings": [],
+  "roomtype": "Standard",
+  "description": "A curation of authentic living palaces, landmark hotels, resorts and safaris,The Orchid is the hallmark of iconic hospitality across the globe. The brand is recognised for its warm and intuitive service and is the undisputed leader in Indian hospitality.",
+  "city": "Kanpur",
+  "location_id": 4,
+  "city_id": 3,
+  "locality": "WhiteField",
+  "aggregate_rating": 8.8,
+  "rating_text": "Best Hotels to stay",
+  "image": "Images/orchid-4.jpg",
+  "facilities": " Air-conditioned accommodation with free WiFi, as well as access to a terrace,with private Parking",
+  "roomtypeid": 2,
+  "defaultvalue": 1,
+
+  "destination_id": 1
+},{
+  "_id": {
+    "$oid": "63b92bdf3ae0f6b365bfc9b5"
+  },
+  "name": "Hotel Excel",
+  "no_of_people": 2,
+  "contact": {
+    "$numberLong": "6799898999"
+  },
+  "costperday": 1899,
+  "images": [
+    "Images/excel-1.jpg",
+    "Images/excel-2.jpg",
+    "Images/excel-3.jpg"
+  ],
+  "totalbookings": [],
+  "roomtype": "Standard",
+  "description": "A curation of authentic living palaces, landmark hotels, resorts and safaris, Hotel Excel is the hallmark of iconic hospitality across the globe. The brand is recognised for its warm and intuitive service and is the undisputed leader in Indian hospitality.",
+  "city": "Kanpur",
+  "location_id": 4,
+  "city_id": 3,
+  "locality": "Shyam Nagar",
+  "aggregate_rating": 9.1,
+  "rating_text": "Best Hotels to stay",
+  "image": "Images/excel-4.jpg",
+  "facilities": " Air-conditioned accommodation with free WiFi, as well as access to a terrace,with private Parking",
+  "roomtypeid": 2,
+  "defaultvalue": 1,
+
+  "destination_id": 2
+},{
+  "_id": {
+    "$oid": "6580460f10037fab3a8e2c30"
+  },
+  "name": "BVLD CLUB ",
+  "no_of_people": 2,
+  "contact": {
+    "$numberLong": "9239298887"
+  },
+  "costperday": 1499,
+  "images": [
+    "Images/Bangalore/BLVD-1.jpg",
+    "Images/Bangalore/BLVD-2.jpg",
+    "Images/Bangalore/BLVD-3.jpg"
+  ],
+  "totalbookings": [],
+  "roomtype": "Deluxe",
+  "description": "A curation of authentic living palaces, landmark hotels, resorts and safaris, Sai Villa Palace is the hallmark of iconic hospitality across the globe. The brand is recognised for its warm and intuitive service and is the undisputed leader in Indian hospitality.",
+  "city": "Banglore",
+  "location_id": 1,
+  "city_id": 2,
+  "locality": "Koramangala",
+  "aggregate_rating": 8.4,
+  "rating_text": "Best Hotels to stay",
+  "image": "Images/Bangalore/BLVD-4.jpg",
+  "facilities": " Air-conditioned accommodation with free WiFi, as well as access to a terrace,with private Parking",
+  "roomtypeid": 3,
+  "defaultvalue": 1,
+  "destination_id": 1
+},{
+  "_id": {
+    "$oid": "6580460f10037fab3a8e2c31"
+  },
+  "name": "Mistyblue Serviced Apartments",
+  "no_of_people": 2,
+  "contact": {
+    "$numberLong": "9565698989"
+  },
+  "costperday": 1499,
+  "images": [
+    "Images/Bangalore/misty-1.jpg",
+    "Images/Bangalore/misty-2.jpg",
+    "Images/Bangalore/misty-3.jpg"
+  ],
+  "totalbookings": [],
+  "roomtype": "Standard",
+  "description": "A curation of authentic living palaces, landmark hotels, resorts and safaris, Sai Villa Palace is the hallmark of iconic hospitality across the globe. The brand is recognised for its warm and intuitive service and is the undisputed leader in Indian hospitality.",
+  "city": "Banglore",
+  "location_id": 1,
+  "city_id": 2,
+  "locality": "Koramangala",
+  "aggregate_rating": 8.4,
+  "rating_text": "Best Hotels to stay",
+  "image": "Images/Bangalore/misty-4.jpg",
+  "facilities": " Air-conditioned accommodation with free WiFi, as well as access to a terrace,with private Parking",
+  "roomtypeid": 2,
+  "defaultvalue": 1,
+  "destination_id": 1
+},{
+  "_id": {
+    "$oid": "6580460f10037fab3a8e2c32"
+  },
+  "name": "VOVO PREMIER HOTEL",
+  "no_of_people": 5,
+  "contact": {
+    "$numberLong": "95657778989"
+  },
+  "costperday": 799,
+  "images": [
+    "Images/Bangalore/vovo-1.jpg",
+    "Images/Bangalore/vovo-2.jpg",
+    "Images/Bangalore/vovo-3.jpg"
+  ],
+  "totalbookings": [
+    {
+      "bookingid": {
+        "$oid": "65805ef7ce8fa3c6c97a21e4"
+      },
+      "fromdate": "29-12-2023",
+      "todate": "08-01-2024",
+      "userid": "63be4757841c73db05e619e0",
+      "status": "booked"
+    }
+  ],
+  "roomtype": "Standard",
+  "description": "A curation of authentic living palaces, landmark hotels, resorts and safaris, Sai Villa Palace is the hallmark of iconic hospitality across the globe. The brand is recognised for its warm and intuitive service and is the undisputed leader in Indian hospitality.",
+  "city": "Banglore",
+  "location_id": 2,
+  "city_id": 2,
+  "locality": "Electronic City",
+  "aggregate_rating": 8.9,
+  "rating_text": "Best Hotels to stay",
+  "image": "Images/Bangalore/vovo-4.jpg",
+  "facilities": " Air-conditioned accommodation with free WiFi, as well as access to a terrace,with private Parking",
+  "roomtypeid": 2,
+  "defaultvalue": 1,
+  "destination_id": 1
+},{
+  "_id": {
+    "$oid": "6580460f10037fab3a8e2c33"
+  },
+  "name": "Pinnacle Serviced Apartments",
+  "no_of_people": 3,
+  "contact": {
+    "$numberLong": "9565774329"
+  },
+  "costperday": 1599,
+  "images": [
+    "Images/Bangalore/pinacle-1.jpg",
+    "Images/Bangalore/pinacle-2.jpg",
+    "Images/Bangalore/pinacle-3.jpg"
+  ],
+  "totalbookings": [],
+  "roomtype": "Deluxe",
+  "description": "A curation of authentic living palaces, landmark hotels, resorts and safaris, Sai Villa Palace is the hallmark of iconic hospitality across the globe. The brand is recognised for its warm and intuitive service and is the undisputed leader in Indian hospitality.",
+  "city": "Banglore",
+  "location_id": 2,
+  "city_id": 2,
+  "locality": "Electronic City",
+  "aggregate_rating": 8.9,
+  "rating_text": "Best Hotels to stay",
+  "image": "Images/Bangalore/pinacle-4.jpg",
+  "facilities": " Air-conditioned accommodation with free WiFi, as well as access to a terrace,with private Parking",
+  "roomtypeid": 3,
+  "defaultvalue": 1,
+  "destination_id": 1
+},{
+  "_id": {
+    "$oid": "6580460f10037fab3a8e2c34"
+  },
+  "name": "FabHotel Crown Heights",
+  "no_of_people": 2,
+  "contact": {
+    "$numberLong": "9565774889"
+  },
+  "costperday": 1599,
+  "images": [
+    "Images/Bangalore/fab-1.jpg",
+    "Images/Bangalore/fab-2.jpg",
+    "Images/Bangalore/fab-3.jpg"
+  ],
+  "totalbookings": [],
+  "roomtype": "Standard",
+  "description": "A curation of authentic living palaces, landmark hotels, resorts and safaris, Sai Villa Palace is the hallmark of iconic hospitality across the globe. The brand is recognised for its warm and intuitive service and is the undisputed leader in Indian hospitality.",
+  "city": "Banglore",
+  "location_id": 3,
+  "city_id": 2,
+  "locality": "HSR Layout",
+  "aggregate_rating": 8.9,
+  "rating_text": "Best Hotels to stay",
+  "image": "Images/Bangalore/fab-4.jpg",
+  "facilities": " Air-conditioned accommodation with free WiFi, as well as access to a terrace,with private Parking",
+  "roomtypeid": 2,
+  "defaultvalue": 1,
+  "destination_id": 1
+},{
+  "_id": {
+    "$oid": "6580460f10037fab3a8e2c35"
+  },
+  "name": "Olive ",
+  "no_of_people": 3,
+  "contact": {
+    "$numberLong": "9565774889"
+  },
+  "costperday": 799,
+  "images": [
+    "Images/Bangalore/olive-1.jpg",
+    "Images/Bangalore/olive-2.jpg",
+    "Images/Bangalore/olive-3.jpg"
+  ],
+  "totalbookings": [],
+  "roomtype": "Standard",
+  "description": "A curation of authentic living palaces, landmark hotels, resorts and safaris, Sai Villa Palace is the hallmark of iconic hospitality across the globe. The brand is recognised for its warm and intuitive service and is the undisputed leader in Indian hospitality.",
+  "city": "Banglore",
+  "location_id": 3,
+  "city_id": 2,
+  "locality": "HSR Layout",
+  "aggregate_rating": 8.9,
+  "rating_text": "Best Hotels to stay",
+  "image": "Images/Bangalore/olive-4.jpg",
+  "facilities": " Air-conditioned accommodation with free WiFi, as well as access to a terrace,with private Parking",
+  "roomtypeid": 2,
+  "defaultvalue": 1,
+  "destination_id": 1
+},{
+  "_id": {
+    "$oid": "6580460f10037fab3a8e2c36"
+  },
+  "name": "Sanctum Suites Domlur Bangalore",
+  "no_of_people": 5,
+  "contact": {
+    "$numberLong": "9335774889"
+  },
+  "costperday": 1899,
+  "images": [
+    "Images/Bangalore/sanctum-1.jpg",
+    "Images/Bangalore/sanctum-2.jpg",
+    "Images/Bangalore/sanctum-3.jpg"
+  ],
+  "totalbookings": [],
+  "roomtype": "Standard",
+  "description": "A curation of authentic living palaces, landmark hotels, resorts and safaris, Sai Villa Palace is the hallmark of iconic hospitality across the globe. The brand is recognised for its warm and intuitive service and is the undisputed leader in Indian hospitality.",
+  "city": "Banglore",
+  "location_id": 4,
+  "city_id": 2,
+  "locality": "WhiteField",
+  "aggregate_rating": 8.9,
+  "rating_text": "Best Hotels to stay",
+  "image": "Images/Bangalore/sanctum-4.jpg",
+  "facilities": " Air-conditioned accommodation with free WiFi, as well as access to a terrace,with private Parking",
+  "roomtypeid": 2,
+  "defaultvalue": 1,
+  "destination_id": 1
+},{
+  "_id": {
+    "$oid": "6580460f10037fab3a8e2c37"
+  },
+  "name": "Clarion Hotel ",
+  "no_of_people": 2,
+  "contact": {
+    "$numberLong": "9364762889"
+  },
+  "costperday": 2599,
+  "images": [
+    "Images/Bangalore/clarion-1.jpg",
+    "Images/Bangalore/clarion-2.jpg",
+    "Images/Bangalore/clarion-3.jpg"
+  ],
+  "totalbookings": [],
+  "roomtype": "Standard",
+  "description": "A curation of authentic living palaces, landmark hotels, resorts and safaris, Sai Villa Palace is the hallmark of iconic hospitality across the globe. The brand is recognised for its warm and intuitive service and is the undisputed leader in Indian hospitality.",
+  "city": "Banglore",
+  "location_id": 4,
+  "city_id": 2,
+  "locality": "WhiteField",
+  "aggregate_rating": 6.4,
+  "rating_text": "Best Hotels to stay",
+  "image": "Images/Bangalore/clarion-4.jpg",
+  "facilities": " Air-conditioned accommodation with free WiFi, as well as access to a terrace,with private Parking",
+  "roomtypeid": 2,
+  "defaultvalue": 1,
+  "destination_id": 1
+},{
+  "_id": {
+    "$oid": "6580460f10037fab3a8e2c38"
+  },
+  "name": "Blu Petal  ",
+  "no_of_people": 2,
+  "contact": {
+    "$numberLong": "9385642889"
+  },
+  "costperday": 1749,
+  "images": [
+    "Images/Bangalore/blu-1.jpg",
+    "Images/Bangalore/blu-2.jpg",
+    "Images/Bangalore/blu-3.jpg"
+  ],
+  "totalbookings": [],
+  "roomtype": "Deluxe",
+  "description": "A curation of authentic living palaces, landmark hotels, resorts and safaris, Sai Villa Palace is the hallmark of iconic hospitality across the globe. The brand is recognised for its warm and intuitive service and is the undisputed leader in Indian hospitality.",
+  "city": "Banglore",
+  "location_id": 4,
+  "city_id": 2,
+  "locality": "WhiteField",
+  "aggregate_rating": 9.5,
+  "rating_text": "Best Hotels to stay",
+  "image": "Images/Bangalore/blu-4.jpg",
+  "facilities": " Air-conditioned accommodation with free WiFi, as well as access to a terrace,with private Parking",
+  "roomtypeid": 3,
+  "defaultvalue": 1,
+  "destination_id": 1
+},{
+  "_id": {
+    "$oid": "6580460f10037fab3a8e2c39"
+  },
+  "name": "Bhagini Icon Premier Hotel ",
+  "no_of_people": 3,
+  "contact": {
+    "$numberLong": "9385679889"
+  },
+  "costperday": 1199,
+  "images": [
+    "Images/Bangalore/bhagini-1.jpg",
+    "Images/Bangalore/bhagini-2.jpg",
+    "Images/Bangalore/bhagini-3.jpg"
+  ],
+  "totalbookings": [],
+  "roomtype": "Deluxe",
+  "description": "A curation of authentic living palaces, landmark hotels, resorts and safaris, Sai Villa Palace is the hallmark of iconic hospitality across the globe. The brand is recognised for its warm and intuitive service and is the undisputed leader in Indian hospitality.",
+  "city": "Banglore",
+  "location_id": 4,
+  "city_id": 2,
+  "locality": "WhiteField",
+  "aggregate_rating": 7.8,
+  "rating_text": "Best Hotels to stay",
+  "image": "Images/Bangalore/bhagini-4.jpg",
+  "facilities": " Air-conditioned accommodation with free WiFi, as well as access to a terrace,with private Parking",
+  "roomtypeid": 3,
+  "defaultvalue": 1,
+  "destination_id": 1
+},{
+  "_id": {
+    "$oid": "6580460f10037fab3a8e2c3a"
+  },
+  "name": "Elanza Hotel ",
+  "no_of_people": 3,
+  "contact": {
+    "$numberLong": "9385655889"
+  },
+  "costperday": 1899,
+  "images": [
+    "Images/Bangalore/elza-1.jpg",
+    "Images/Bangalore/elza-2.jpg",
+    "Images/Bangalore/elza-3.jpg"
+  ],
+  "totalbookings": [],
+  "roomtype": "Deluxe",
+  "description": "A curation of authentic living palaces, landmark hotels, resorts and safaris, Sai Villa Palace is the hallmark of iconic hospitality across the globe. The brand is recognised for its warm and intuitive service and is the undisputed leader in Indian hospitality.",
+  "city": "Banglore",
+  "location_id": 5,
+  "city_id": 2,
+  "locality": "BTM Layout",
+  "aggregate_rating": 7.8,
+  "rating_text": "Best Hotels to stay",
+  "image": "Images/Bangalore/elza-4.jpg",
+  "facilities": " Air-conditioned accommodation with free WiFi, as well as access to a terrace,with private Parking",
+  "roomtypeid": 3,
+  "defaultvalue": 1,
+  "destination_id": 1
+},{
+  "_id": {
+    "$oid": "6580460f10037fab3a8e2c3b"
+  },
+  "name": "MySpace Hotels Silverstar",
+  "no_of_people": 2,
+  "contact": {
+    "$numberLong": "9345984889"
+  },
+  "costperday": 2599,
+  "images": [
+    "Images/Bangalore/myspace-1.jpg",
+    "Images/Bangalore/myspace-2.jpg",
+    "Images/Bangalore/myspace-3.jpg"
+  ],
+  "totalbookings": [],
+  "roomtype": "Deluxe",
+  "description": "A curation of authentic living palaces, landmark hotels, resorts and safaris, Sai Villa Palace is the hallmark of iconic hospitality across the globe. The brand is recognised for its warm and intuitive service and is the undisputed leader in Indian hospitality.",
+  "city": "Banglore",
+  "location_id": 5,
+  "city_id": 2,
+  "locality": "BTM Layout",
+  "aggregate_rating": 8.4,
+  "rating_text": "Best Hotels to stay",
+  "image": "Images/Bangalore/myspace-4.jpg",
+  "facilities": " Air-conditioned accommodation with free WiFi, as well as access to a terrace,with private Parking",
+  "roomtypeid": 3,
+  "defaultvalue": 1,
+  "destination_id": 1
+},{
+  "_id": {
+    "$oid": "65805bd510037fab3a8e2c3f"
+  },
+  "name": "Radisson Jodhpur",
+  "no_of_people": 3,
+  "contact": {
+    "$numberLong": "9765928780"
+  },
+  "costperday": 2599,
+  "images": [
+    "Images/Jhodhpur/radison-1.jpg",
+    "Images/Jhodhpur/radison-2.jpg",
+    "Images/Jhodhpur/radison-3.jpg"
+  ],
+  "totalbookings": [],
+  "roomtype": "Deluxe",
+  "description": "A curation of authentic living palaces, landmark hotels, resorts and safaris, RamBagh Palace is the hallmark of iconic hospitality across the globe. The brand is recognised for its warm and intuitive service and is the undisputed leader in Indian hospitality.",
+  "city": "Kanpur",
+  "location_id": 1,
+  "city_id": 3,
+  "locality": "Bani Park",
+  "aggregate_rating": 8.9,
+  "rating_text": "Best Hotels to stay",
+  "image": "Images/Jhodhpur/radison-4.jpg",
+  "facilities": " Air-conditioned accommodation with free WiFi, as well as access to a terrace,with private Parking",
+  "roomtypeid": 3,
+  "defaultvalue": 1,
+  "destination_id": 2
+},{
+  "_id": {
+    "$oid": "65805bd510037fab3a8e2c40"
+  },
+  "name": "Novotel Jodhpur ITI Circle",
+  "no_of_people": 2,
+  "contact": {
+    "$numberLong": "9556389880"
+  },
+  "costperday": 799,
+  "images": [
+    "Images/Jhodhpur/novo-1.jpg",
+    "Images/Jhodhpur/novo-2.jpg",
+    "Images/Jhodhpur/novo-3.jpg"
+  ],
+  "totalbookings": [],
+  "roomtype": "Deluxe",
+  "description": "A curation of authentic living palaces, landmark hotels, resorts and safaris, RamBagh Palace is the hallmark of iconic hospitality across the globe. The brand is recognised for its warm and intuitive service and is the undisputed leader in Indian hospitality.",
+  "city": "Kanpur",
+  "location_id": 2,
+  "city_id": 3,
+  "locality": "Civil Lines",
+  "aggregate_rating": 8.6,
+  "rating_text": "Best Hotels to stay",
+  "image": "Images/Jhodhpur/novo-4.jpg",
+  "facilities": " Air-conditioned accommodation with free WiFi, as well as access to a terrace,with private Parking",
+  "roomtypeid": 3,
+  "defaultvalue": 1,
+  "destination_id": 2
+},{
+  "_id": {
+    "$oid": "65805bd510037fab3a8e2c41"
+  },
+  "name": "Suraj Haveli",
+  "no_of_people": 4,
+  "contact": {
+    "$numberLong": "9867673920"
+  },
+  "costperday": 1449,
+  "images": [
+    "Images/Jhodhpur/suraj-1.jpg",
+    "Images/Jhodhpur/suraj-2.jpg",
+    "Images/Jhodhpur/suraj-3.jpg"
+  ],
+  "totalbookings": [],
+  "roomtype": "Standard",
+  "description": "A curation of authentic living palaces, landmark hotels, resorts and safaris, RamBagh Palace is the hallmark of iconic hospitality across the globe. The brand is recognised for its warm and intuitive service and is the undisputed leader in Indian hospitality.",
+  "city": "Kanpur",
+  "location_id": 2,
+  "city_id": 3,
+  "locality": "Civil Lines",
+  "aggregate_rating": 7,
+  "rating_text": "Best Hotels to stay",
+  "image": "Images/Jhodhpur/suraj-4.jpg",
+  "facilities": " Air-conditioned accommodation with free WiFi, as well as access to a terrace,with private Parking",
+  "roomtypeid": 2,
+  "defaultvalue": 1,
+  "destination_id": 2
+},{
+  "_id": {
+    "$oid": "65805bd510037fab3a8e2c42"
+  },
+  "name": "Rani Mahal",
+  "no_of_people": 1,
+  "contact": {
+    "$numberLong": "7989765950"
+  },
+  "costperday": 899,
+  "images": [
+    "Images/Jhodhpur/rani-1.jpg",
+    "Images/Jhodhpur/rani-2.jpg",
+    "Images/Jhodhpur/rani-3.jpg"
+  ],
+  "totalbookings": [],
+  "roomtype": "Deluxe",
+  "description": "A curation of authentic living palaces, landmark hotels, resorts and safaris, RamBagh Palace is the hallmark of iconic hospitality across the globe. The brand is recognised for its warm and intuitive service and is the undisputed leader in Indian hospitality.",
+  "city": "Kanpur",
+  "location_id": 3,
+  "city_id": 3,
+  "locality": "vaishali Nagar",
+  "aggregate_rating": 8.5,
+  "rating_text": "Best Hotels to stay",
+  "image": "Images/Jhodhpur/rani-4.jpg",
+  "facilities": " Air-conditioned accommodation with free WiFi, as well as access to a terrace,with private Parking",
+  "roomtypeid": 3,
+  "defaultvalue": 1,
+  "destination_id": 2
+},{
+  "_id": {
+    "$oid": "65805bd510037fab3a8e2c43"
+  },
+  "name": "Daspan House",
+  "no_of_people": 3,
+  "contact": {
+    "$numberLong": "7983434580"
+  },
+  "costperday": 1999,
+  "images": [
+    "Images/Jhodhpur/daspan-1.jpg",
+    "Images/Jhodhpur/daspan-2.jpg",
+    "Images/Jhodhpur/daspan-3.jpg"
+  ],
+  "totalbookings": [],
+  "roomtype": "Deluxe",
+  "description": "A curation of authentic living palaces, landmark hotels, resorts and safaris, RamBagh Palace is the hallmark of iconic hospitality across the globe. The brand is recognised for its warm and intuitive service and is the undisputed leader in Indian hospitality.",
+  "city": "Kanpur",
+  "location_id": 3,
+  "city_id": 3,
+  "locality": "vaishali Nagar",
+  "aggregate_rating": 9,
+  "rating_text": "Best Hotels to stay",
+  "image": "Images/Jhodhpur/daspan-4.jpg",
+  "facilities": " Air-conditioned accommodation with free WiFi, as well as access to a terrace,with private Parking",
+  "roomtypeid": 3,
+  "defaultvalue": 1,
+  "destination_id": 2
+},{
+  "_id": {
+    "$oid": "65805bd510037fab3a8e2c44"
+  },
+  "name": "Mandore Guest House",
+  "no_of_people": 2,
+  "contact": {
+    "$numberLong": "7977884580"
+  },
+  "costperday": 2499,
+  "images": [
+    "Images/Jhodhpur/mandore-1.jpg",
+    "Images/Jhodhpur/mandore-2.jpg",
+    "Images/Jhodhpur/mandore-3.jpg"
+  ],
+  "totalbookings": [],
+  "roomtype": "Standard",
+  "description": "A curation of authentic living palaces, landmark hotels, resorts and safaris, RamBagh Palace is the hallmark of iconic hospitality across the globe. The brand is recognised for its warm and intuitive service and is the undisputed leader in Indian hospitality.",
+  "city": "Kanpur",
+  "location_id": 3,
+  "city_id": 3,
+  "locality": "vaishali Nagar",
+  "aggregate_rating": 9.4,
+  "rating_text": "Best Hotels to stay",
+  "image": "Images/Jhodhpur/mandore-4.jpg",
+  "facilities": " Air-conditioned accommodation with free WiFi, as well as access to a terrace,with private Parking",
+  "roomtypeid": 2,
+  "defaultvalue": 1,
+  "destination_id": 2
+},{
+  "_id": {
+    "$oid": "65805bd510037fab3a8e2c45"
+  },
+  "name": "Umaid Bhawan Palace Jodhpur",
+  "no_of_people": 2,
+  "contact": {
+    "$numberLong": "7933248450"
+  },
+  "costperday": 1649,
+  "images": [
+    "Images/Jhodhpur/umaid-1.jpg",
+    "Images/Jhodhpur/umaid-2.jpg",
+    "Images/Jhodhpur/umaid-3.jpg"
+  ],
+  "totalbookings": [],
+  "roomtype": "Standard",
+  "description": "A curation of authentic living palaces, landmark hotels, resorts and safaris, RamBagh Palace is the hallmark of iconic hospitality across the globe. The brand is recognised for its warm and intuitive service and is the undisputed leader in Indian hospitality.",
+  "city": "Kanpur",
+  "location_id": 4,
+  "city_id": 3,
+  "locality": "Shyam Nagar",
+  "aggregate_rating": 8.9,
+  "rating_text": "Best Hotels to stay",
+  "image": "Images/Jhodhpur/umaid-4.jpg",
+  "facilities": " Air-conditioned accommodation with free WiFi, as well as access to a terrace,with private Parking",
+  "roomtypeid": 2,
+  "defaultvalue": 1,
+  "destination_id": 2
+},{
+  "_id": {
+    "$oid": "65805bd510037fab3a8e2c46"
+  },
+  "name": "Hotel Omni Plaza",
+  "no_of_people": 3,
+  "contact": {
+    "$numberLong": "7872901450"
+  },
+  "costperday": 1299,
+  "images": [
+    "Images/Jhodhpur/omni-1.jpg",
+    "Images/Jhodhpur/omni-2.jpg",
+    "Images/Jhodhpur/omni-3.jpg"
+  ],
+  "totalbookings": [],
+  "roomtype": "Deluxe",
+  "description": "A curation of authentic living palaces, landmark hotels, resorts and safaris, RamBagh Palace is the hallmark of iconic hospitality across the globe. The brand is recognised for its warm and intuitive service and is the undisputed leader in Indian hospitality.",
+  "city": "Kanpur",
+  "location_id": 4,
+  "city_id": 3,
+  "locality": "Shyam Nagar",
+  "aggregate_rating": 7.6,
+  "rating_text": "Best Hotels to stay",
+  "image": "Images/Jhodhpur/omni-4.jpg",
+  "facilities": " Air-conditioned accommodation with free WiFi, as well as access to a terrace,with private Parking",
+  "roomtypeid": 3,
+  "defaultvalue": 1,
+  "destination_id": 2
+},{
+  "_id": {
+    "$oid": "65805bd510037fab3a8e2c47"
+  },
+  "name": "StayVista at Sunset Escape",
+  "no_of_people": 4,
+  "contact": {
+    "$numberLong": "9376276850"
+  },
+  "costperday": 2499,
+  "images": [
+    "Images/Jhodhpur/stayvista-1.jpg",
+    "Images/Jhodhpur/stayvista-2.jpg",
+    "Images/Jhodhpur/stayvista-3.jpg"
+  ],
+  "totalbookings": [],
+  "roomtype": "Deluxe",
+  "description": "A curation of authentic living palaces, landmark hotels, resorts and safaris, RamBagh Palace is the hallmark of iconic hospitality across the globe. The brand is recognised for its warm and intuitive service and is the undisputed leader in Indian hospitality.",
+  "city": "Kanpur",
+  "location_id": 4,
+  "city_id": 3,
+  "locality": "Shyam Nagar",
+  "aggregate_rating": 7.6,
+  "rating_text": "Best Hotels to stay",
+  "image": "Images/Jhodhpur/stayvista-4.jpg",
+  "facilities": " Air-conditioned accommodation with free WiFi, as well as access to a terrace,with private Parking",
+  "roomtypeid": 3,
+  "defaultvalue": 1,
+  "destination_id": 2
+},{
+  "_id": {
+    "$oid": "65805bd510037fab3a8e2c48"
+  },
+  "name": "The Ummed Jodhpur Palace Resort & Spa",
+  "no_of_people": 2,
+  "contact": {
+    "$numberLong": "769827656550"
+  },
+  "costperday": 2449,
+  "images": [
+    "Images/Jhodhpur/ummed-1.jpg",
+    "Images/Jhodhpur/ummed-2.jpg",
+    "Images/Jhodhpur/ummed-3.jpg"
+  ],
+  "totalbookings": [],
+  "roomtype": "Deluxe",
+  "description": "A curation of authentic living palaces, landmark hotels, resorts and safaris, RamBagh Palace is the hallmark of iconic hospitality across the globe. The brand is recognised for its warm and intuitive service and is the undisputed leader in Indian hospitality.",
+  "city": "Kanpur",
+  "location_id": 5,
+  "city_id": 3,
+  "locality": "Amer",
+  "aggregate_rating": 9.4,
+  "rating_text": "Best Hotels to stay",
+  "image": "Images/Jhodhpur/ummed-4.jpg",
+  "facilities": " Air-conditioned accommodation with free WiFi, as well as access to a terrace,with private Parking",
+  "roomtypeid": 3,
+  "defaultvalue": 1,
+  "destination_id": 2
+}]

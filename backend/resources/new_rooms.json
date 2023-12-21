@@ -1,0 +1,380 @@
+// [Radisson Jodhpur,
+
+// Novotel Jodhpur ITI Circle,
+
+// Suraj Haveli,
+
+// Rani Mahal,
+
+// Daspan House,
+
+// Mandore Guest House,
+
+// Umaid Bhawan Palace Jodhpur,
+
+// Hotel Omni Plaza,
+
+// StayVista at Sunset Escape,
+
+// The Ummed Jodhpur Palace Resort & Spa
+// ]
+
+[
+
+  {
+    
+    "name": "Radisson Jodhpur",
+    "no_of_people": 3,
+    "contact": {
+      "$numberLong": "9765928780"
+    },
+    "costperday": 2599,
+    "images": [
+      "Images/Jhodhpur/radison-1.jpg",
+      "Images/Jhodhpur/radison-2.jpg",
+      "Images/Jhodhpur/radison-3.jpg"
+    ],
+    "totalbookings": [],
+    "roomtype": "Deluxe",
+    "description": "A curation of authentic living palaces, landmark hotels, resorts and safaris, RamBagh Palace is the hallmark of iconic hospitality across the globe. The brand is recognised for its warm and intuitive service and is the undisputed leader in Indian hospitality.",
+    "city": "Kanpur",
+    "location_id": 1,
+    "city_id": 3,
+    "locality": "Bani Park",
+    "aggregate_rating": 8.9,
+    "rating_text": "Best Hotels to stay",
+    "image": "Images/Jhodhpur/radison-4.jpg",
+    "facilities": " Air-conditioned accommodation with free WiFi, as well as access to a terrace,with private Parking",
+    "roomtypeid": 3,
+    "defaultvalue": 1,
+ 
+    "destination_id": 2
+  },
+
+  {
+    
+    "name": "Novotel Jodhpur ITI Circle",
+    "no_of_people": 2,
+    "contact": {
+      "$numberLong": "9556389880"
+    },
+    "costperday": 799,
+    "images": [
+      "Images/Jhodhpur/novo-1.jpg",
+      "Images/Jhodhpur/novo-2.jpg",
+      "Images/Jhodhpur/novo-3.jpg"
+    ],
+    "totalbookings": [],
+    "roomtype": "Deluxe",
+    "description": "A curation of authentic living palaces, landmark hotels, resorts and safaris, RamBagh Palace is the hallmark of iconic hospitality across the globe. The brand is recognised for its warm and intuitive service and is the undisputed leader in Indian hospitality.",
+    "city": "Kanpur",
+    "location_id": 2,
+    "city_id": 3,
+    "locality": "Civil Lines",
+    "aggregate_rating": 8.6,
+    "rating_text": "Best Hotels to stay",
+    "image": "Images/Jhodhpur/novo-4.jpg",
+    "facilities": " Air-conditioned accommodation with free WiFi, as well as access to a terrace,with private Parking",
+    "roomtypeid": 3,
+    "defaultvalue": 1,
+ 
+    "destination_id": 2
+  
+  },
+
+  {
+    
+    "name": "Suraj Haveli",
+    "no_of_people": 4,
+    "contact": {
+      "$numberLong": "9867673920"
+    },
+    "costperday": 1449,
+    "images": [
+      "Images/Jhodhpur/suraj-1.jpg",
+      "Images/Jhodhpur/suraj-2.jpg",
+      "Images/Jhodhpur/suraj-3.jpg"
+    ],
+    "totalbookings": [],
+    "roomtype": "Standard",
+    "description": "A curation of authentic living palaces, landmark hotels, resorts and safaris, RamBagh Palace is the hallmark of iconic hospitality across the globe. The brand is recognised for its warm and intuitive service and is the undisputed leader in Indian hospitality.",
+    "city": "Kanpur",
+    "location_id": 2,
+    "city_id": 3,
+    "locality": "Civil Lines",
+    "aggregate_rating": 7.0,
+    "rating_text": "Best Hotels to stay",
+    "image": "Images/Jhodhpur/suraj-4.jpg",
+    "facilities": " Air-conditioned accommodation with free WiFi, as well as access to a terrace,with private Parking",
+    "roomtypeid": 3,
+    "defaultvalue": 1,
+ 
+    "destination_id": 2
+  },
+
+
+  {
+    
+    "name": "Rani Mahal",
+    "no_of_people": 1,
+    "contact": {
+      "$numberLong": "7989765950"
+    },
+    "costperday": 899,
+    "images": [
+      "Images/Jhodhpur/rani-1.jpg",
+      "Images/Jhodhpur/rani-2.jpg",
+      "Images/Jhodhpur/rani-3.jpg"
+    ],
+    "totalbookings": [],
+    "roomtype": "Deluxe",
+    "description": "A curation of authentic living palaces, landmark hotels, resorts and safaris, RamBagh Palace is the hallmark of iconic hospitality across the globe. The brand is recognised for its warm and intuitive service and is the undisputed leader in Indian hospitality.",
+    "city": "Kanpur",
+    "location_id": 3,
+    "city_id": 3,
+    "locality": "vaishali Nagar",
+    "aggregate_rating": 8.5,
+    "rating_text": "Best Hotels to stay",
+    "image": "Images/Jhodhpur/rani-4.jpg",
+    "facilities": " Air-conditioned accommodation with free WiFi, as well as access to a terrace,with private Parking",
+    "roomtypeid": 3,
+    "defaultvalue": 1,
+ 
+    "destination_id": 2
+  },
+
+
+  {
+    
+    "name": "Daspan House",
+    "no_of_people": 3,
+    "contact": {
+      "$numberLong": "7983434580"
+    },
+    "costperday": 1999,
+    "images": [
+      "Images/Jhodhpur/daspan-1.jpg",
+      "Images/Jhodhpur/daspan-2.jpg",
+      "Images/Jhodhpur/daspan-3.jpg"
+    ],
+    "totalbookings": [],
+    "roomtype": "Deluxe",
+    "description": "A curation of authentic living palaces, landmark hotels, resorts and safaris, RamBagh Palace is the hallmark of iconic hospitality across the globe. The brand is recognised for its warm and intuitive service and is the undisputed leader in Indian hospitality.",
+    "city": "Kanpur",
+    "location_id": 3,
+    "city_id": 3,
+    "locality": "vaishali Nagar",
+    "aggregate_rating": 9.0,
+    "rating_text": "Best Hotels to stay",
+    "image": "Images/Jhodhpur/daspan-4.jpg",
+    "facilities": " Air-conditioned accommodation with free WiFi, as well as access to a terrace,with private Parking",
+    "roomtypeid": 3,
+    "defaultvalue": 1,
+ 
+    "destination_id": 2
+  },
+
+  {
+    
+    "name": "Mandore Guest House",
+    "no_of_people": 2,
+    "contact": {
+      "$numberLong": "7977884580"
+    },
+    "costperday": 2499,
+    "images": [
+      "Images/Jhodhpur/mandore-1.jpg",
+      "Images/Jhodhpur/mandore-2.jpg",
+      "Images/Jhodhpur/mandore-3.jpg"
+    ],
+    "totalbookings": [],
+    "roomtype": "Standard",
+    "description": "A curation of authentic living palaces, landmark hotels, resorts and safaris, RamBagh Palace is the hallmark of iconic hospitality across the globe. The brand is recognised for its warm and intuitive service and is the undisputed leader in Indian hospitality.",
+    "city": "Kanpur",
+    "location_id": 3,
+    "city_id": 3,
+    "locality": "vaishali Nagar",
+    "aggregate_rating": 9.4,
+    "rating_text": "Best Hotels to stay",
+    "image": "Images/Jhodhpur/mandore-4.jpg",
+    "facilities": " Air-conditioned accommodation with free WiFi, as well as access to a terrace,with private Parking",
+    "roomtypeid": 3,
+    "defaultvalue": 1,
+ 
+    "destination_id": 2
+  },
+
+  {
+    
+    "name": "Umaid Bhawan Palace Jodhpur",
+    "no_of_people": 2,
+    "contact": {
+      "$numberLong": "7933248450"
+    },
+    "costperday": 1649,
+    "images": [
+      "Images/Jhodhpur/umaid-1.jpg",
+      "Images/Jhodhpur/umaid-2.jpg",
+      "Images/Jhodhpur/umaid-3.jpg"
+    ],
+    "totalbookings": [],
+    "roomtype": "Standard",
+    "description": "A curation of authentic living palaces, landmark hotels, resorts and safaris, RamBagh Palace is the hallmark of iconic hospitality across the globe. The brand is recognised for its warm and intuitive service and is the undisputed leader in Indian hospitality.",
+    "city": "Kanpur",
+    "location_id": 4,
+    "city_id": 3,
+    "locality": "Shyam Nagar",
+    "aggregate_rating": 8.9,
+    "rating_text": "Best Hotels to stay",
+    "image": "Images/Jhodhpur/umaid-4.jpg",
+    "facilities": " Air-conditioned accommodation with free WiFi, as well as access to a terrace,with private Parking",
+    "roomtypeid": 3,
+    "defaultvalue": 1,
+ 
+    "destination_id": 2
+  },
+
+  {
+    
+    "name": "Hotel Omni Plaza",
+    "no_of_people": 3,
+    "contact": {
+      "$numberLong": "7872901450"
+    },
+    "costperday": 1299,
+    "images": [
+      "Images/Jhodhpur/omni-1.jpg",
+      "Images/Jhodhpur/omni-2.jpg",
+      "Images/Jhodhpur/omni-3.jpg"
+    ],
+    "totalbookings": [],
+    "roomtype": "Deluxe",
+    "description": "A curation of authentic living palaces, landmark hotels, resorts and safaris, RamBagh Palace is the hallmark of iconic hospitality across the globe. The brand is recognised for its warm and intuitive service and is the undisputed leader in Indian hospitality.",
+    "city": "Kanpur",
+    "location_id": 4,
+    "city_id": 3,
+    "locality": "Shyam Nagar",
+    "aggregate_rating": 7.6,
+    "rating_text": "Best Hotels to stay",
+    "image": "Images/Jhodhpur/omni-4.jpg",
+    "facilities": " Air-conditioned accommodation with free WiFi, as well as access to a terrace,with private Parking",
+    "roomtypeid": 3,
+    "defaultvalue": 1,
+ 
+    "destination_id": 2
+  },
+
+
+  {
+    
+    "name": "StayVista at Sunset Escape",
+    "no_of_people": 4,
+    "contact": {
+      "$numberLong": "9376276850"
+    },
+    "costperday": 2499,
+    "images": [
+      "Images/Jhodhpur/stayvista-1.jpg",
+      "Images/Jhodhpur/stayvista-2.jpg",
+      "Images/Jhodhpur/stayvista-3.jpg"
+    ],
+    "totalbookings": [],
+    "roomtype": "Deluxe",
+    "description": "A curation of authentic living palaces, landmark hotels, resorts and safaris, RamBagh Palace is the hallmark of iconic hospitality across the globe. The brand is recognised for its warm and intuitive service and is the undisputed leader in Indian hospitality.",
+    "city": "Kanpur",
+    "location_id": 4,
+    "city_id": 3,
+    "locality": "Shyam Nagar",
+    "aggregate_rating": 7.6,
+    "rating_text": "Best Hotels to stay",
+    "image": "Images/Jhodhpur/stayvista-4.jpg",
+    "facilities": " Air-conditioned accommodation with free WiFi, as well as access to a terrace,with private Parking",
+    "roomtypeid": 3,
+    "defaultvalue": 1,
+ 
+    "destination_id": 2
+  },
+
+  {
+    
+    "name": "The Ummed Jodhpur Palace Resort & Spa",
+    "no_of_people": 2,
+    "contact": {
+      "$numberLong": "769827656550"
+    },
+    "costperday": 2449,
+    "images": [
+      "Images/Jhodhpur/ummed-1.jpg",
+      "Images/Jhodhpur/ummed-2.jpg",
+      "Images/Jhodhpur/ummed-3.jpg"
+    ],
+    "totalbookings": [],
+    "roomtype": "Deluxe",
+    "description": "A curation of authentic living palaces, landmark hotels, resorts and safaris, RamBagh Palace is the hallmark of iconic hospitality across the globe. The brand is recognised for its warm and intuitive service and is the undisputed leader in Indian hospitality.",
+    "city": "Kanpur",
+    "location_id": 5,
+    "city_id": 3,
+    "locality": "Amer",
+    "aggregate_rating": 9.4,
+    "rating_text": "Best Hotels to stay",
+    "image": "Images/Jhodhpur/ummed-4.jpg",
+    "facilities": " Air-conditioned accommodation with free WiFi, as well as access to a terrace,with private Parking",
+    "roomtypeid": 3,
+    "defaultvalue": 1,
+ 
+    "destination_id": 2
+  }
+]
+
+
+
+Mumbai
+
+Trident Bandra Kurla
+
+The Taj Mahal Tower, Mumbai
+Trident Nariman Point
+
+Hotel Marine Plaza
+
+President - IHCL SeleQtions
+
+Bloom Hotel - Juhu
+
+The Leela Mumbai
+
+Marriott Executive Apartment - Lakeside Chalet
+
+
+
+chennai
+
+The Leela Palace Chennai
+
+Hyatt Regency Chennai
+Taj Connemara, Chennai
+
+Ramada Plaza Chennai
+
+Novotel Chennai OMR
+
+Quality Inn Sabari
+
+Radisson Blu Hotel Chennai City Centre
+
+
+Hyderabad
+Citadines OMR 
+
+Avasa Hotel
+
+Le Meridien Hyderabad
+
+Fairfield by Marriott Hyderabad Gachibowli
+
+
+Hotel Silver Clé 
+The Westin Hyderabad Mindspace
+
+
+ 
